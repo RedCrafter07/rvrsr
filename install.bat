@@ -1,0 +1,1 @@
+yarn install && tsc && npm i -g .
